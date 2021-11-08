@@ -62,7 +62,7 @@ Zaključeno rešitev zapakirajte in jo pošljite na naš e-naslov skupaj z navod
 
 # Relational Model
 
-![](/home/milan/git/repository/music/doc/RelationModel.draw.drawio.png)
+![see: doc/RelationModel.png](/home/milan/git/repository/music/doc/RelationModel.png)
 
 
 
