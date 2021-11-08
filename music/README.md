@@ -4,6 +4,24 @@
 
 This app serves as a demo application for the application to the job offer.
 
+# Building
+
+```bash
+cd <project>/src/main/webapp/
+npm run build
+cd <project>
+mvn compile
+mvn package
+```
+
+# Running
+
+```bash
+java -jar target/music-0.0.1-SNAPSHOT.jar
+```
+
+Open http://localhost:8080/view/index.html#!/top/groups in the browser.
+
 # Requirements
 
 Implementirati enostavno CRUD aplikacijo za delo z glasbenimi izvajalci.
